@@ -1,0 +1,27 @@
+<%= form_for @kitten do |form| %>
+
+    <p>
+      <%= form.label :name %><br>
+      <%= form.text_field :name %>
+    </p>
+   
+    <p>
+      <%= form.label :age %><br>
+      <%= form.text_area :age %>
+    </p>
+
+    <p>
+      <%= form.label :cuteness %><br>
+      <%= form.text_area :cuteness %>
+    </p>
+   
+    <p>
+      <%= form.label :softness %><br>
+      <%= form.text_area :softness %>
+    </p>
+   
+   
+    <p>
+      <%= form.submit %>
+    </p>
+  <% end %>

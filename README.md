@@ -1,24 +1,10 @@
-# README
+## Kitten API practice
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Rails Project from [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/apis)
 
-Things you may want to cover:
+Created by Saul Belisle, follow me on Twitter: [@saul_good_homie](https://twitter.com/saul_good_homie)
 
-* Ruby version
+Skills practiced:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Ruby on Rails
+- API creation
